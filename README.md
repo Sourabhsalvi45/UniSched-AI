@@ -2,7 +2,7 @@
 
 UniSched is an intelligent timetable generation system designed specifically for colleges. It automates the creation of class, lab, and instructor schedules while efficiently managing multiple complex constraints.
 
-The system leverages a Genetic Algorithm (GA) approach to optimize timetable generation by considering:
+The system leverages a Genetic Algorithm (GA) approach to optimize timetable generation by considering: 
 Multiple departments
 Allocation of laboratories and lecture halls
 Assignment of qualified instructors
