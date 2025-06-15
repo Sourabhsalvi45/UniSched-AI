@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458852895217",
+    "project_id": "unisched-37e30",
+    "storage_bucket": "unisched-37e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458852895217:android:5f2497821d3ea4155b1c50",
+        "android_client_info": {
+          "package_name": "com.example.unisched"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNbnJx7dZ_gv5fdTaTwP5I-MHtlZBiRlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
