@@ -24,9 +24,13 @@ By simulating and evaluating numerous possible solutions, **UniSched** identifie
 ## 🎯 Features
 
 ✅ Fully automated timetable generation using Genetic Algorithms
+
 ✅ Handles multi-department scheduling
+
 ✅ Lab, Lecture, Instructor, and Course constraints intelligently resolved
+
 ✅ Optimized to avoid clashes (instructors, course overlaps, labs)
+
 ✅ Firebase integration for user authentication and timetable storage
 
 ---
@@ -87,8 +91,11 @@ A **Genetic Algorithm (GA)** is used to automatically generate optimized college
 ## 🔍 Problem Solved
 
 ❌ No more manual timetable creation
+
 ❌ Eliminates human error in managing multiple constraints
+
 ✅ Generates optimized timetables within seconds/minutes
+
 ✅ Easily scalable to multiple departments and faculties
 
 ---
