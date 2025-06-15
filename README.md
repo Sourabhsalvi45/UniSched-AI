@@ -6,7 +6,7 @@ The system leverages a Genetic Algorithm (GA) approach to optimize timetable gen
 Multiple departments
 Allocation of laboratories and lecture halls
 Assignment of qualified instructors
-Prevention of conflicts such as lab overlaps or instructor schedule clashes
+Prevention of conflicts such as lab overlaps or instructor schedule clashes 
 
 By simulating and evaluating numerous possible solutions, UniSched identifies the most optimal timetable configuration without the need for manual planning.
 
