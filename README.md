@@ -91,7 +91,7 @@ Timetable generation is an NP-Hard problem — GA is well-suited for such comple
 │   │     ├── homepage.dart
 │   │     ├── instructor.dart
 │   │     └── view.dart           # Timetable viewer
-│   └── /landing                  # Authentication and welcome screens
+│   └── /landing                  # Authentication and welcome screens 
 │         ├── login.dart
 │         ├── register.dart
 │         └── welcome.dart
